@@ -1,0 +1,2 @@
+# Pathfinding-Visualization-Djisktra-vs-Astar
+ Pathfinding-Visualization is a Python project by Syed Asghar Abbas Zaidi from Habib University. It offers a graphical interface for visualizing pathfinding algorithms like Dijkstra's and A*. Users can interactively create obstacles, set start and target points, and observe the algorithms' exploration and shortest path finding. Detailed instructions provided for seamless navigation
